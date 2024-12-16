@@ -2,6 +2,22 @@
 
 # Application "Anagrammes sur mesure" en cours de test sur le Google Play Store
 
+
+## Impressions d'écran
+<div style="display: flex; justify-content: space-between;">
+	<img src="img/1.png" alt="Accueil" width="250"/>
+	<img src="img/2.png" alt="Paramètes linguistiques" width="250"/>
+	<img src="img/3.png" alt="Par catégorie" width="250"/>
+</div>	
+
+<div style="display: flex; justify-content: space-between;">
+	<img src="img/4.png" alt="Jeu" width="500"/>
+	<img src="img/5.png" alt="Indices" width="300"/>
+	<img src="img/6.png" alt="Solution" width="300"/>
+</div>
+
+
+## Description
 « Anagrammes sur mesure » est un jeu d'anagrammes qui vous permet de personnaliser votre expérience de jeu selon des critères linguistiques spécifiques ou des catégories de mots. 
 <p>Conçue pour offrir un défi stimulant et amusant aux amateurs de mots, l’application offre une approche unique en combinant la puissance de la personnalisation avec une interface intuitive et accessible. 
 <p>Elle est destinée à toute les personnes appréciant jouer avec les mots. Plus particulièrement, elle propose aux amateurs de scrabble un entraînement précis et adapté à leurs besoins. 
@@ -31,16 +47,3 @@ Anagrammes sur mesure est l'outil idéal pour un entrainement cérébral en vous
 - Tests : Instrumentés
 - Accessibilité : Validation d'Accessibility Scanner + tests manuels avec TalkBack
 - UI : portrait, paysage, téléphone et tablette, mode clair et sombre
-
-## Impressions d'écran
-<div style="display: flex; justify-content: space-between;">
-	<img src="img/1.png" alt="Accueil" width="300"/>
-	<img src="img/2.png" alt="Paramètes linguistiques" width="300"/>
-	<img src="img/3.png" alt="Par catégorie" width="300"/>
-</div>	
-
-<div style="display: flex; justify-content: space-between;">
-	<img src="img/4.png" alt="Jeu" width="300"/>
-	<img src="img/5.png" alt="Indices" width="300"/>
-	<img src="img/6.png" alt="Solution" width="300"/>
-</div>
