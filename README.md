@@ -34,15 +34,13 @@ Anagrammes sur mesure est l'outil idéal pour un entrainement cérébral en vous
 
 ## Impressions d'écran
 <div style="display: flex; justify-content: space-between;">
-  ![Screenshot_20241213_155206](https://github.com/user-attachments/assets/e1c5a5d4-aa57-446a-af4a-f333f0184651)
-  ![Screenshot_20241213_155523](https://github.com/user-attachments/assets/69865b2e-fc19-491c-b8b6-3c7820b795fd)
-  ![Screenshot_20241213_155621](https://github.com/user-attachments/assets/e424c9ff-6dd8-404f-97d8-ccdb7d03d1a1)
+	<img src="img/1.png" alt="Accueil" width="300"/>
+	<img src="img/2.png" alt="Paramètes linguistiques" width="300"/>
+	<img src="img/3.png" alt="Par catégorie" width="300"/>
 </div>	
 
 <div style="display: flex; justify-content: space-between;">
-  ![Screenshot_20241213_155643](https://github.com/user-attachments/assets/75b73067-c48e-4e40-a312-6ed82250b43e)
-![Screenshot_20241213_155657](https://github.com/user-attachments/assets/266a5863-8c6e-4891-baf7-554cdf4e597a)
-![Screenshot_20241213_155711](https://github.com/user-attachments/assets/fdb5899e-c7d4-43f8-924e-91208c5b1b54)
-
-</div>	
-
+	<img src="img/4.png" alt="Jeu" width="300"/>
+	<img src="img/5.png" alt="Indices" width="300"/>
+	<img src="img/6.png" alt="Solution" width="300"/>
+</div>
