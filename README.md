@@ -1,7 +1,7 @@
 [![forthebadge](https://forthebadge.com/images/badges/made-with-kotlin.svg)](https://forthebadge.com) 
 
 # Application "Anagrammes sur mesure" en cours de test sur le Google Play Store
-
+« Anagrammes sur mesure » est un jeu d'anagrammes qui vous permet de personnaliser votre expérience de jeu selon des critères linguistiques spécifiques ou des catégories de mots. 
 
 ## Impressions d'écran
 <div style="display: flex; justify-content: space-between;">
@@ -11,15 +11,14 @@
 </div>	
 
 <div style="display: flex; justify-content: space-between;">
-	<img src="img/4.png" alt="Jeu" width="500"/>
-	<img src="img/5.png" alt="Indices" width="300"/>
-	<img src="img/6.png" alt="Solution" width="300"/>
+	<img src="img/4.png" alt="Jeu" width="350"/>
+	<img src="img/5.png" alt="Indices" width="350"/>
+	<img src="img/6.png" alt="Solution" width="350"/>
 </div>
 
 
 ## Description
-« Anagrammes sur mesure » est un jeu d'anagrammes qui vous permet de personnaliser votre expérience de jeu selon des critères linguistiques spécifiques ou des catégories de mots. 
-<p>Conçue pour offrir un défi stimulant et amusant aux amateurs de mots, l’application offre une approche unique en combinant la puissance de la personnalisation avec une interface intuitive et accessible. 
+Conçue pour offrir un défi stimulant et amusant aux amateurs de mots, l’application offre une approche unique en combinant la puissance de la personnalisation avec une interface intuitive et accessible. 
 <p>Elle est destinée à toute les personnes appréciant jouer avec les mots. Plus particulièrement, elle propose aux amateurs de scrabble un entraînement précis et adapté à leurs besoins. 
 <p>Elle peut également être utilisée par les orthophonistes auprès de leurs patients (adolescents/adultes) afin d'entraîner l'évocation lexicale et la flexibilité mentale. 
 <p><p>Personnalisation selon des critères linguistiques : <p>
